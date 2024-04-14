@@ -8,4 +8,6 @@
 
 A lazy guy, seldom upload my stuff on github...
 
-I do Deep Learning, Web Backend, Web Frontend (even I don't like it), MCU, PC Desktop Applications, etc.
+I do Artificial Intelligence, Web Backend, Web Frontend, MCU, PC Desktop Applications, etc.
+
+Gonna major at **Artificial Intelligence** I think lol.
