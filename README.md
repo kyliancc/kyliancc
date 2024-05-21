@@ -11,3 +11,7 @@ A lazy guy, seldom upload my stuff on github...
 I do Artificial Intelligence, Web Backend, Web Frontend, MCU, PC Desktop Applications, etc.
 
 Gonna major at **Artificial Intelligence** I think lol.
+
+---
+
+Sometimes do some art and bussiness learning...
