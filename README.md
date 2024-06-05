@@ -16,6 +16,8 @@ Sometimes do some art and bussiness learning...
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyliancc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 Languages:
 
 [![](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,py,mysql)](https://skillicons.dev)
