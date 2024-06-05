@@ -12,6 +12,22 @@ I do Artificial Intelligence, Web Backend, Web Frontend, MCU, PC Desktop Applica
 
 Gonna major at **Artificial Intelligence** I think lol.
 
+Sometimes do some art and bussiness learning...
+
 ---
 
-Sometimes do some art and bussiness learning...
+Languages:
+
+[![](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,py,mysql)](https://skillicons.dev)
+
+Frameworks:
+
+[![](https://skillicons.dev/icons?i=pytorch,qt,nodejs,vue,jquery,spring,fastapi)](https://skillicons.dev)
+
+IDEs:
+
+[![](https://skillicons.dev/icons?i=pycharm,clion,webstorm,idea,vscode)](https://skillicons.dev)
+
+OS:
+
+[![](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
