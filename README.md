@@ -1,18 +1,16 @@
 ### Hiiii, I'm @kyliancc!
 
-#### 16-year-old **Computer Science** and **Automation** lover.
+#### 16-year-old Computer Science and Automation lover.
 
-#### Now being an "auditor" in Central South University.
+#### Now active in Central South University.
 
 ---
 
-A lazy guy, seldom upload my stuff on github...
-
-I do Artificial Intelligence, Web Backend, Web Frontend, MCU, PC Desktop Applications, etc.
+I do Artificial Intelligence, Web Backend, Web Frontend, Embedded, PC Desktop Applications, etc.
 
 Gonna major at **Artificial Intelligence** I think lol.
 
-Sometimes do some art and bussiness learning...
+Sometimes learn some art and bussiness for fun...
 
 ---
 
@@ -20,11 +18,11 @@ Sometimes do some art and bussiness learning...
 
 Languages:
 
-[![](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,py,mysql)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,py)](https://skillicons.dev)
 
-Frameworks:
+Frameworks & Tools:
 
-[![](https://skillicons.dev/icons?i=pytorch,qt,nodejs,vue,jquery,spring,fastapi)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=pytorch,qt,nodejs,vue,jquery,spring,fastapi,mysql)](https://skillicons.dev)
 
 IDEs:
 
