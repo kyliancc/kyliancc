@@ -1,16 +1,16 @@
-### Hiiii, I'm @kyliancc!
+## Hiiii, I'm @kyliancc! 👋
 
-#### 16-year-old Computer Science and Automation lover.
+#### 16-year-old Computer Science and Automation enthusiast from China.
 
 #### Now active in Central South University.
 
----
+<br>
 
 I do Artificial Intelligence, Web Backend, Web Frontend, Embedded, PC Desktop Applications, etc.
 
-Gonna major at **Artificial Intelligence** I think lol.
+Currently major at **Artificial Intelligence**.
 
-Sometimes learn some art and bussiness for fun...
+Sometimes learn some art and bussiness for fun... 🤫
 
 ---
 
