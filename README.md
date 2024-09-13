@@ -6,7 +6,7 @@
 
 <br>
 
-I do Artificial Intelligence, Web Backend, Web Frontend, Embedded, PC Desktop Applications, etc.
+I do Artificial Intelligence, Software Engineering, Robot Engineering, etc.
 
 Currently major at **Artificial Intelligence**.
 
