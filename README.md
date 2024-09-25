@@ -10,11 +10,11 @@
 
 <br>
 
-I do Artificial Intelligence, Software Engineering, Robot Engineering, etc.
+I do Artificial Intelligence, Software Engineering, and various kinds of Algorithms, etc.
 
 Sometimes learn some art and bussiness for fun... 🤫
 
-我做人工智能，软件工程，机器人工程，等等。
+我做人工智能，软件工程，以及各种各样的算法，等等。
 
 有时学一些艺术和商学作为兴趣... 🤫
 
