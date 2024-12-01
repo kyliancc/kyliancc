@@ -10,13 +10,17 @@
 
 <br>
 
-I do Artificial Intelligence, Software Engineering, and various kinds of Algorithms, etc.
+I do Artificial Intelligence, Software Engineering, Embedded Development, and various kinds of Algorithms, etc.
 
 Sometimes learn some arts and social sciences for fun... 🤫
 
-我做人工智能，软件工程，以及各种各样的算法，等等。
+Currently learning Neuroscience... 🧐
+
+我做人工智能，软件工程，嵌入式开发，以及各种各样的算法，等等。
 
 有时学一些艺术和社科作为兴趣... 🤫
+
+正在学习神经科学... 🧐
 
 ---
 
