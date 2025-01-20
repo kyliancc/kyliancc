@@ -24,10 +24,6 @@ Currently learning Neuroscience... 🧐
 
 ---
 
-🥳 团队招人：https://github.com/kyliancc/kyliancc/blob/main/catch.md
-
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyliancc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Languages | 编程语言:
