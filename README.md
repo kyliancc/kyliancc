@@ -1,10 +1,10 @@
 ## Hiiii, I'm @kyliancc! 👋
 
-### 16-year-old Computer Science and Automation enthusiast from China.
+### 17-year-old Computer Science and Automation enthusiast from China.
 
 ### Now active in Central South University.
 
-### 来自中国，16岁的计算机科学与自动化爱好者
+### 来自中国，17岁的计算机科学与自动化爱好者
 
 ### 目前活跃于中南大学
 
