@@ -28,11 +28,11 @@ Currently learning Neuroscience... 🧐
 
 Languages | 编程语言:
 
-[![](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,py)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,py,go,kotlin)](https://skillicons.dev)
 
 Frameworks & Tools | 框架 & 工具:
 
-[![](https://skillicons.dev/icons?i=pytorch,qt,nodejs,vue,jquery,spring,fastapi,mysql)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=pytorch,qt,nodejs,vue,jquery,spring,fastapi,mysql,docker,latex,sqlite,opencv,sklearn)](https://skillicons.dev)
 
 IDEs | IDE:
 
@@ -40,4 +40,4 @@ IDEs | IDE:
 
 OS | 操作系统:
 
-[![](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=arch,windows)](https://skillicons.dev)
