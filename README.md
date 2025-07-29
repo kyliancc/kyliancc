@@ -24,7 +24,7 @@ Currently learning Neuroscience... 🧐
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyliancc&layout=compact&hide=Jupyter%20Notebook,jupyter)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyliancc&layout=compact&hide=Jupyter%20Notebook,jupyter&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 Languages | 编程语言:
 
