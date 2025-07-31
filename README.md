@@ -28,7 +28,7 @@ Currently learning Neuroscience... 🧐
 
 Languages | 编程语言:
 
-[![](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,py,go,kotlin)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,py,go,kotlin)](https://skillicons.dev)
 
 Frameworks & Tools | 框架 & 工具:
 
