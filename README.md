@@ -39,7 +39,7 @@ Currently learning Cybernetics, and preparing for Gaokao. 🫡
 | Type | Tech Stacks |
 | --- | --- |
 | Web Backend \| Web 后端 | Spring`(Java)`, MyBatis`(Java)`, SpringBoot`(Java)`, Gin`(Go)`, FastAPI`(Python)`, MySQL/MariaDB, SQLite, Redis(Learned but never used) |
-| Web Frontend \| Web 前端 | Vue.js, jQuery, Sass， Axios, ElementUI, Vant |
+| Web Frontend \| Web 前端 | Vue.js, jQuery, Sass, Axios, ElementUI, Vant |
 | Native Application \| 原生应用 | Qt`(PC)`, PyQt`(PC)`, Jetpack Compose`(Android)`, Hilt`(Android)` |
 | Machine Learning \| 机器学习 | scikit-learn, PyTorch, HuggingFace🤗 |
 | Computer Graphics \| 计算机图形 | OpenGL |
