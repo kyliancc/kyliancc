@@ -26,21 +26,33 @@ Currently learning Cybernetics, and preparing for Gaokao. 🫡
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyliancc&layout=compact&hide=Jupyter%20Notebook,jupyter&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-Languages | 编程语言:
+**Languages | 编程语言:**
 
 [![](https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,ts,py,go,kotlin)](https://skillicons.dev)
 
-OS | 操作系统:
+**OS | 操作系统:**
 
 [![](https://skillicons.dev/icons?i=arch,windows)](https://skillicons.dev)
 
-Tech stack | 技术栈：
+**Tech stack | 技术栈：**
 
 | Type | Tech Stacks |
 | --- | --- |
-| Web Backend \| Web 前端 | Spring`(Java)`, MyBatis`(Java)`, SpringBoot`(Java)`, Gin`(Go)`, FastAPI`(Python)`, MySQL/MariaDB, SQLite, Redis(Learned but never used) |
-| Web Frontend \| Web 后端 | Vue.js, jQuery, Sass |
+| Web Backend \| Web 后端 | Spring`(Java)`, MyBatis`(Java)`, SpringBoot`(Java)`, Gin`(Go)`, FastAPI`(Python)`, MySQL/MariaDB, SQLite, Redis(Learned but never used) |
+| Web Frontend \| Web 前端 | Vue.js, jQuery, Sass |
 | Native Application \| 原生应用 | Qt`(PC)`, PyQt`(PC)`, Jetpack Compose`(Android)`, Hilt`(Android)` |
 | Machine Learning \| 机器学习 | scikit-learn, PyTorch, HuggingFace🤗 |
 | Computer Graphics \| 计算机图形 | OpenGL |
 | Embedded Development \| 嵌入式开发 | STM32, ESP32, Raspberry Pi |
+
+---
+
+**About Drawing/Designing | 关于板绘/设计：**
+
+Softwares | 软件: Krita, Adobe Photoshop, Adobe Illustrator
+
+Device | 设备： Wacom CTL-472
+
+My painting style tends to thick one. ☺️ ~~(Truth is I'm bad at Lineart)~~
+
+我的画风偏向于厚涂。☺️ ~~（真相是我勾线不行）~~
