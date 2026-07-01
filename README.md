@@ -1,26 +1,22 @@
 ## Hiiii, I'm @kyliancc! 👋
 
-### Born in 2008, Computer Science and Automation enthusiast from China.
+### Born in 2008, Automation and Computer Science enthusiast from China.
 
-### Now active in Central South University.
+### Pre-undergraduate grade 1 in Changsha University of Science and Technology (CSUST).
 
-### 2008 年生，来自中国的17岁计算机科学与自动化爱好者
+### 2008 年生，来自中国的18岁自动化与计算机科学爱好者
 
-### 目前活跃于中南大学
+### 长沙理工大学（CSUST）准大一
 
 <br>
 
-I do Artificial Intelligence, Software Engineering, Embedded Development, and various kinds of Algorithms, etc.
+I mainly do Control Theory and Control Engineering. I also do Artificial Intelligence, Software Engineering, Embedded Development, and various kinds of Algorithms, etc.
 
-I also draw and play piano for chilling on usual. 🥳
+I draw and play piano for chilling on usual. 🥳
 
-Currently learning Cybernetics, and preparing for Gaokao. 🫡
-
-我做人工智能，软件工程，嵌入式开发，以及各种各样的算法，等等。
+我主要做控制理论及控制工程。我也做人工智能，软件工程，嵌入式开发，以及各种各样的算法，等等。
 
 我平时也画画与弹钢琴放松。🥳
-
-正在学习控制论，以及备战高考。🫡
 
 ---
 
@@ -49,10 +45,6 @@ Currently learning Cybernetics, and preparing for Gaokao. 🫡
 
 **About Drawing/Designing | 关于板绘/设计：**
 
-Softwares | 软件: Krita, Adobe Photoshop, Adobe Illustrator
+Softwares | 软件: Krita, Adobe Photoshop, Adobe Illustrator, Figma
 
 Device | 设备： Wacom CTL-472
-
-My painting style tends to thick one. ☺️ ~~(Truth is I'm bad at Lineart)~~
-
-我的画风偏向于厚涂。☺️ ~~（真相是我勾线不行）~~
